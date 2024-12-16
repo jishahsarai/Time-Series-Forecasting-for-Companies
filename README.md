@@ -9,7 +9,7 @@ Feature Engineering: Sales, Profits, Assets, and Market Value were separated int
 Model Evaluation: Model performance evaluated using Mean Absolute Error (MAE) and GridSearchCV for hyperparameter tuning.
 
 ## Libraries and Technologies:
-Python (NumPy, Pandas, TensorFlow, Keras, Scikit-Learn)
-Time Series Data Reshaping
-Object-Oriented Programming (OOP) for modular code development
+Python (NumPy, Pandas, TensorFlow, Keras, Scikit-Learn)\
+Time Series Data Reshaping\
+Object-Oriented Programming (OOP) for modular code development\
 The project demonstrates the use of machine learning techniques to forecast financial metrics for companies based on historical performance, offering valuable insights for decision-making.
