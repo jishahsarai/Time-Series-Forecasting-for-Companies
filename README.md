@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-for-Companies
+# Financial-Analysis-with-Time-Series-Forecasting-for-Companies
 
 This project aims to perform time series forecasting for the world's largest public companies, using data from Forbes' "Global 2000" rankings. The dataset spans from 2008 to 2023, including company financials such as Sales, Profits, Assets, and Market Value. The goal is to predict future financial metrics based on historical data, using a variety of regression models and deep learning techniques.
 
